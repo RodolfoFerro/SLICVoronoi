@@ -1,4 +1,4 @@
-# SLICVoronoi
+# SLIC + Voronoi <sub>(Computational geometry)</sub>
 <body>
 		<header>
 			<h3>Geometría computacional</h3>
@@ -6,7 +6,6 @@
 				<li><b>Proyecto Final:</b> SLIC + Voronoi = Superpixeles Voronoi</li>
 				<li><b>Alumno:</b> Rodolfo Ferro Pérez </li><br>
 			</ul>
-				<i><b>Nota:</b> Este archivo README pretende ser el más hermoso que haya sido visto por los ojos del lector.</i>
 		</header>
 		<h1>Read Me! Me! Me!</h1>
 			<h2>1. Acerca de...</h2>
