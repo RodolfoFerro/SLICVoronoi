@@ -17,7 +17,7 @@
 				<li>El procedimiento general de edición de la imagen es el siguiente:<br><br>
 					<table>
 						<tr>
-							<td><img src="https://raw.githubusercontent.com/RodolfoFerro/SLICVoronoi/master/proc.png"></td>
+							<td><img src="https://raw.githubusercontent.com/RodolfoFerro/SLICVoronoi/master/imgs/proc.png"></td>
 						</tr>
 					</table>
 					<br>
