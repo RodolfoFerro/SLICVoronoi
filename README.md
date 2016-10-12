@@ -78,5 +78,6 @@
 					</table>
 				</li>
 				<li>La carpeta con las imagenes usadas y resultantes está <a href="imgs/">aquí</a>.</li>
+				<li>Si quieres que te platique la presentación puedes ver el siguiente <a href="https://www.youtube.com/watch?v=MImwrk-jDfw">video</a>.</li>
 			</ul>
 	</body>
